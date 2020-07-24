@@ -1,0 +1,47 @@
+{
+  "name": {
+    "en": "Unified Social Credit Identifier",
+    "local": "统一社会信用代码"
+  },
+  "url": "http://ngo.mps.gov.cn/ngo/portal/toInfogs.do",
+  "description": {
+    "en": "From Plan International China: \"The Overseas NGO Management Law became effective in China since January 2017. Main step involved for getting an organization registered under the new law is to identify an appropriate Professional Supervision Unit (PSU) whose area of work is relevant to INGOs’ key area of interventions and the PSU’s willingness to take on the responsibility for becoming that INGOs’ supervisory agency (PSU). Once such an approval is obtained, then INGOs can get their registration done with the Public Security Bureau (PSB).\" I have understood that every NGO has to have their registration checked and reconfirmed every year.\nUSCNs are also used for businesses and other entities in China as a general tax identification number (TIN), but the online registry mentioned here only shows INGOs. INGOs and businesses should also be able to provide their USCN easily."
+  },
+  "coverage": [
+    "CN"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company"
+  ],
+  "sector": [],
+  "code": "CN-USCN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "http://www.chinanpo.gov.cn/search/orgindex.html",
+    "guidanceOnLocatingIds": "This list only shows INGOs. Use Chrome and translated page if necessary. First field in the form is the name of the organisation. Click the blue button and a new table with results should appear, with the Unified Social Credit Number in the third column.\nFor non-INGO entities, ask the organisation for their USCN or go to http://gsxt.gov.cn. You will need the name of the organisation in Chinese.",
+    "exampleIdentifiers": "G1610000713522976L, G1330000MCW06863XQ, G11100007178352756",
+    "languages": []
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Unified_Social_Credit_Identifier"
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research, official government records",
+    "lastUpdated": "24-7-2020"
+  }
+}
